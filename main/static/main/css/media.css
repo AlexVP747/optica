@@ -44,7 +44,7 @@
   .H3-block{               /*lensess */
     width: 100%;
   } 
-  .video-len{
-    width: 100%;
+  .video-len{                /*lensess */
+    width: 100%; 
   }
 }
